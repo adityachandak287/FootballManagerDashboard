@@ -6,7 +6,8 @@ class ClubSpiderChart extends Component {
     super(props);
     this.state = {
       fetched: false,
-      teamName: this.props.teamName
+      teamName: this.props.teamName,
+      players: null
     };
   }
 
@@ -30,27 +31,46 @@ class ClubSpiderChart extends Component {
   //   }
 
   componentDidMount() {
-    this.setState({
-      players: this.props.players,
-      fetched: this.props.fetched
-    });
+    fetch("http://localhost:3000/club", {
+      method: "POST",
+      body: JSON.stringify({ club: this.state.teamName }),
+      headers: {
+        "Content-type": "application/json"
+      }
+    })
+      .then(response => response.json())
+      .then(json => {
+        console.log(json);
+        this.setState({
+            fetched: true,
+            players: json.club,
+        })
+      })
+      .catch(error => {
+        console.error("Error Fetching Players " + error)
+      }) 
+ 
   }
 
   render() {
+    
     return (
       <div style={{ width: "100%" }} className="container text-center">
         <h3>{"Spider Charts for " + this.props.teamName}</h3>
-
-        <div style={{ display: "inline-block" }}>
-          {this.props.fetched === true && this.state.players ? (
-            this.state.players.map((currPlayer, index) => (
-              <PlayerSpiderChart player={currPlayer} key={index} />
-            ))
-          ) : (
-            <PlayerSpiderChart player={{ Name: "Player Name", Overall: "" }} />
-          )}
+        {
+          this.state.fetched 
+          ? <div style={{ display: "inline-block" }}>
+              {this.state.fetched === true && this.state.players ? (
+                this.state.players.map((currPlayer, index) => (
+                  <PlayerSpiderChart player={currPlayer} key={index} />
+                ))
+              ) : (
+                <PlayerSpiderChart player={{ Name: "Player Name", Overall: "" }} />
+              )}
+            </div>
+          : "Fetching Players"    
+        }
         </div>
-      </div>
     );
   }
 }
