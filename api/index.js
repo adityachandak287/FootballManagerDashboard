@@ -32,13 +32,36 @@ mongo.connect(
       });
     });
 
+    app.get('/clubNames', (req, res) => {
+      var clubNames = [];
+      var clubDetails = [];
+      statsCollection
+        .find({})
+        .toArray((err, players) => {
+          if (err) {
+            console.error("Fetching Club Names"  + err);
+            res.status(200).send({success: false, 'message': 'Could not fetch club names'});
+          }
+          for (const player of players) {
+            if (!clubNames.includes(player.Club)) {
+              clubNames.push(player.Club);
+              clubDetails.push({name: player.Club, logo: player['Club Logo']})
+            }
+          }
+          response = {
+            success: true,
+            clubNames: clubDetails,
+          }
+          res.status(200).send(JSON.stringify(response));
+        });
+    });
+    
     app.post("/club", (req, res) => {
       statsCollection
         .find({ Club: req.body.club })
         .toArray(function(err, club) {
           if (err) console.log(err);
           console.log(req.body);
-          // console.log(club);
           res.send({ club: club });
         });
     });
@@ -47,7 +70,13 @@ mongo.connect(
       console.log(req.body);
       res.send(req.body);
     });
-
+    app.get("/test", (req, res) => {
+      statsCollection
+        .findOne()
+        .then((player) => {
+          res.send(player['Club Logo']);
+        })
+    })
     // app.get("/team/:teamname", (req, res) => {
     //   db.collection("matches")
     //     .find({
