@@ -1,10 +1,13 @@
 const express = require("express");
-const app = express();
+const cors = require("cors");
 const bodyParser = require("body-parser");
-
 var mongo = require("mongodb").MongoClient;
+
+const app = express();
+app.use(cors());
+
 const mongoURI = "mongodb://localhost:27017";
-const PORT = 3000;
+const PORT = 8080;
 
 app.use(bodyParser.json({ extended: true }));
 // app.set("view engine", "ejs");
@@ -13,7 +16,7 @@ mongo.connect(
   mongoURI,
   {
     useNewUrlParser: true,
-    useUnifiedTopology: true
+    useUnifiedTopology: true,
   },
   (err, client) => {
     if (err) {
@@ -23,19 +26,35 @@ mongo.connect(
     console.log("Connected to MongoDB");
     const db = client.db("fifa");
     const statsCollection = db.collection("stats");
-
+    const teamsCollection = db.collection("teams");
     app.get("/", (req, res) => {
-      statsCollection.find().toArray(function(err, stats) {
+      statsCollection.find().toArray(function (err, stats) {
         if (err) console.log(err);
 
         res.send({ stats: stats.splice(0, 10) });
       });
     });
 
+    app.get("/clubNames", (req, res) => {
+      teamsCollection.find({}).toArray((err, teams) => {
+        if (err) {
+          console.error("Fetching Club Names" + err);
+          res
+            .status(200)
+            .send({ success: false, message: "Could not fetch club names" });
+        }
+        response = {
+          success: true,
+          clubNames: teams,
+        };
+        res.status(200).send(JSON.stringify(response));
+      });
+    });
+
     app.post("/club", (req, res) => {
       statsCollection
         .find({ Club: req.body.club })
-        .toArray(function(err, club) {
+        .toArray(function (err, club) {
           if (err) console.log(err);
           console.log(req.body);
           // console.log(club);
@@ -72,7 +91,7 @@ mongo.connect(
     //     });
     // });
 
-    app.listen(PORT, function() {
+    app.listen(PORT, function () {
       console.log(`Listening on port ${PORT}`);
     });
   }

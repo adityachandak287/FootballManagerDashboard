@@ -1,0 +1,9 @@
+[
+    {
+        "teamName": "Walsall",
+        "error": {
+            "message": "invalid json response body at https://www.thesportsdb.com/api/v1/json/1/searchteams.php?t=Walsall reason: Unexpected token < in JSON at position 0",
+            "type": "invalid-json"
+        }
+    }
+]
