@@ -8,5 +8,8 @@ statsCollection = db.stats
 playerData = list(statsCollection.find({"Club": "FC Barcelona"}))
 
 for player in playerData:
-    print(player)
+    with open("player.json", "w") as outfile:
+        del player["_id"]
+        outfile.write(json.dumps(player, indent=4))
+        print("JSON saved")
     break
