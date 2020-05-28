@@ -13,11 +13,11 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "mongodb": "^3.5.3"
+    "mongodb": "^3.5.8"
   },
   "devDependencies": {
     "node-fetch": "^2.6.0",
-    "nodemon": "^2.0.2",
-    "uuid": "^8.0.0"
+    "nodemon": "^2.0.4",
+    "uuid": "^8.1.0"
   }
 }
