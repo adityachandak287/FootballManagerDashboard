@@ -13,10 +13,10 @@ class PlayerSpiderChart extends Component {
       "Finishing",
       "Positioning",
       "Reactions",
-      "Stamina"
+      "Stamina",
     ];
 
-    const deafaultAttributeValues = defaultAttributeNames.map(attrName => {
+    const deafaultAttributeValues = defaultAttributeNames.map((attrName) => {
       if (this.props.player) return parseInt(this.props.player[attrName]);
       else return 0;
     });
@@ -29,10 +29,10 @@ class PlayerSpiderChart extends Component {
           {
             label: this.props.player.Name,
             data: deafaultAttributeValues,
-            backgroundColor: this.getRandomColor()
-          }
-        ]
-      }
+            backgroundColor: this.getRandomColor(),
+          },
+        ],
+      },
     };
   }
 
@@ -51,26 +51,27 @@ class PlayerSpiderChart extends Component {
   render() {
     return (
       <div
-        style={{ width: "400px", height: "400px", display: "inline-block" }}
+        // className="col-12 col-md-3"
+        style={{ width: "30%", height: "400px", display: "inline-block" }}
         className="container"
       >
         <Radar
           data={this.state.chartData}
           // width={"100%"}
-          // height={}
+          // height={"100%"}
           options={{
             maintainAspectRatio: false,
             scale: {
               angleLines: {
-                display: false
+                display: false,
               },
               gridLines: {},
               ticks: {
                 min: 0,
                 max: 100,
-                stepSize: 10
-              }
-            }
+                stepSize: 10,
+              },
+            },
           }}
         />
       </div>

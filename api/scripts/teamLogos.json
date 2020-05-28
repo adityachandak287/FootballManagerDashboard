@@ -1,0 +1,2610 @@
+{
+  "FC Barcelona": {
+    "teamName": "FC Barcelona",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/xqwpup1473502878.png"
+  },
+  "Juventus": {
+    "teamName": "Juventus",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/dd6d6q1535186317.png"
+  },
+  "Paris Saint-Germain": {
+    "teamName": "Paris Saint-Germain",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png"
+  },
+  "Manchester United": {
+    "teamName": "Manchester United",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png"
+  },
+  "Manchester City": {
+    "teamName": "Manchester City",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png"
+  },
+  "Chelsea": {
+    "teamName": "Chelsea",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/yvwvtu1448813215.png"
+  },
+  "Real Madrid": {
+    "teamName": "Real Madrid",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png"
+  },
+  "Atlético Madrid": {
+    "teamName": "Atlético Madrid",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/kzifae1578852277.png"
+  },
+  "FC Bayern München": {
+    "teamName": "FC Bayern München",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/sl3wze1557006052.png"
+  },
+  "Tottenham Hotspur": {
+    "teamName": "Tottenham Hotspur",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/18.png"
+  },
+  "Liverpool": {
+    "teamName": "Liverpool",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/uvxuqq1448813372.png"
+  },
+  "Napoli": {
+    "teamName": "Napoli",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/yqtpsq1448806624.png"
+  },
+  "Arsenal": {
+    "teamName": "Arsenal",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/a1af2i1557005128.png"
+  },
+  "Milan": {
+    "teamName": "Milan",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/wvspur1448806617.png"
+  },
+  "Inter": {
+    "teamName": "Inter",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/xqyvuy1448806439.png"
+  },
+  "Lazio": {
+    "teamName": "Lazio",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/rwqyvs1448806608.png"
+  },
+  "Borussia Dortmund": {
+    "teamName": "Borussia Dortmund",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/qtsqtx1473453261.png"
+  },
+  "Vissel Kobe": {
+    "teamName": "Vissel Kobe",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/2axjch1578239819.png"
+  },
+  "Olympique Lyonnais": {
+    "teamName": "Olympique Lyonnais",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/vwtvyt1473504756.png"
+  },
+  "Roma": {
+    "teamName": "Roma",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/xqpqpq1448806641.png"
+  },
+  "Valencia CF": {
+    "teamName": "Valencia CF",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/461.png"
+  },
+  "Guangzhou Evergrande Taobao FC": {
+    "teamName": "Guangzhou Evergrande Taobao FC",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/111839.png"
+  },
+  "FC Porto": {
+    "teamName": "FC Porto",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/vtwwwx1471876518.png"
+  },
+  "FC Schalke 04": {
+    "teamName": "FC Schalke 04",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/qqutyp1473453400.png"
+  },
+  "Beşiktaş JK": {
+    "teamName": "Beşiktaş JK",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/327.png"
+  },
+  "LA Galaxy": {
+    "teamName": "LA Galaxy",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/esdemk1580418366.png"
+  },
+  "Sporting CP": {
+    "teamName": "Sporting CP",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/svxpsx1471876338.png"
+  },
+  "Real Betis": {
+    "teamName": "Real Betis",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/rrxvww1473502887.png"
+  },
+  "Olympique de Marseille": {
+    "teamName": "Olympique de Marseille",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/uutsyt1473504764.png"
+  },
+  "RC Celta": {
+    "teamName": "RC Celta",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/450.png"
+  },
+  "Bayer 04 Leverkusen": {
+    "teamName": "Bayer 04 Leverkusen",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/wuvsup1473453369.png"
+  },
+  "Real Sociedad": {
+    "teamName": "Real Sociedad",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/vptvpr1473502986.png"
+  },
+  "Villarreal CF": {
+    "teamName": "Villarreal CF",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/483.png"
+  },
+  "Sevilla FC": {
+    "teamName": "Sevilla FC",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/481.png"
+  },
+  "SL Benfica": {
+    "teamName": "SL Benfica",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/7t684j1520879174.png"
+  },
+  "AS Saint-Étienne": {
+    "teamName": "AS Saint-Étienne",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/lqc1031518124880.png"
+  },
+  "AS Monaco": {
+    "teamName": "AS Monaco",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/xwxsxq1473504775.png"
+  },
+  "Leicester City": {
+    "teamName": "Leicester City",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/95.png"
+  },
+  "Atalanta": {
+    "teamName": "Atalanta",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/lrvxg71534873930.png"
+  },
+  "Grêmio": {
+    "teamName": "Grêmio",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/uvpwyt1473538089.png"
+  },
+  "Atlético Mineiro": {
+    "teamName": "Atlético Mineiro",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/tysuuw1473538009.png"
+  },
+  "RB Leipzig": {
+    "teamName": "RB Leipzig",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/myxmk01534875577.png"
+  },
+  "Ajax": {
+    "teamName": "Ajax",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/9az3yz1534798587.png"
+  },
+  "Dalian YiFang FC": {
+    "teamName": "Dalian YiFang FC",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/112378.png"
+  },
+  "Everton": {
+    "teamName": "Everton",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png"
+  },
+  "West Ham United": {
+    "teamName": "West Ham United",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/yutyxs1467459956.png"
+  },
+  "1. FC Köln": {
+    "teamName": "1. FC Köln",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/2j1sc91566049407.png"
+  },
+  "TSG 1899 Hoffenheim": {
+    "teamName": "TSG 1899 Hoffenheim",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/qusuxu1473453358.png"
+  },
+  "Shanghai SIPG FC": {
+    "teamName": "Shanghai SIPG FC",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/112540.png"
+  },
+  "OGC Nice": {
+    "teamName": "OGC Nice",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/qwvtvt1473504800.png"
+  },
+  "Al Nassr": {
+    "teamName": "Al Nassr",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/dnuilv1511552000.png"
+  },
+  "Wolverhampton Wanderers": {
+    "teamName": "Wolverhampton Wanderers",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/qwvuqy1448811552.png"
+  },
+  "Borussia Mönchengladbach": {
+    "teamName": "Borussia Mönchengladbach",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/sysurw1473453380.png"
+  },
+  "Hertha BSC": {
+    "teamName": "Hertha BSC",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/qpsryu1473453350.png"
+  },
+  "SV Werder Bremen": {
+    "teamName": "SV Werder Bremen",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/uurwqy1473453408.png"
+  },
+  "Cruzeiro": {
+    "teamName": "Cruzeiro",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/upsvvu1473538059.png"
+  },
+  "Athletic Club de Bilbao": {
+    "teamName": "Athletic Club de Bilbao",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/448.png"
+  },
+  "Torino": {
+    "teamName": "Torino",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/xxprty1448806802.png"
+  },
+  "Medipol Başakşehir FK": {
+    "teamName": "Medipol Başakşehir FK",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/101014.png"
+  },
+  "Beijing Sinobo Guoan FC": {
+    "teamName": "Beijing Sinobo Guoan FC",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/111768.png"
+  },
+  "Crystal Palace": {
+    "teamName": "Crystal Palace",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/rytxyw1448813222.png"
+  },
+  "PFC CSKA Moscow": {
+    "teamName": "PFC CSKA Moscow",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/315.png"
+  },
+  "VfL Wolfsburg": {
+    "teamName": "VfL Wolfsburg",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/yxtrxy1473453416.png"
+  },
+  "Shakhtar Donetsk": {
+    "teamName": "Shakhtar Donetsk",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/sqrxsr1421791799.png"
+  },
+  "Toronto FC": {
+    "teamName": "Toronto FC",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/rsxyrr1473536512.png"
+  },
+  "Lokomotiv Moscow": {
+    "teamName": "Lokomotiv Moscow",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/100765.png"
+  },
+  "Sassuolo": {
+    "teamName": "Sassuolo",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/xystvp1448806138.png"
+  },
+  "New York City FC": {
+    "teamName": "New York City FC",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/li4y2o1534575820.png"
+  },
+  "Fluminense": {
+    "teamName": "Fluminense",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/stvvwp1473538082.png"
+  },
+  "PSV": {
+    "teamName": "PSV",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/xryxrq1473534831.png"
+  },
+  "Levante UD": {
+    "teamName": "Levante UD",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/1853.png"
+  },
+  "Fulham": {
+    "teamName": "Fulham",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/xwwvyt1448811086.png"
+  },
+  "Watford": {
+    "teamName": "Watford",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/rsuswy1448813519.png"
+  },
+  "Atlanta United": {
+    "teamName": "Atlanta United",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/mfqsr91492451442.png"
+  },
+  "Montpellier HSC": {
+    "teamName": "Montpellier HSC",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/spxtvu1473504783.png"
+  },
+  "Galatasaray SK": {
+    "teamName": "Galatasaray SK",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/0g2e1g1521151051.png"
+  },
+  "Fenerbahçe SK": {
+    "teamName": "Fenerbahçe SK",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/326.png"
+  },
+  "SD Eibar": {
+    "teamName": "SD Eibar",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/467.png"
+  },
+  "Los Angeles FC": {
+    "teamName": "Los Angeles FC",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/vhq16x1516042594.png"
+  },
+  "Sampdoria": {
+    "teamName": "Sampdoria",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/wsqyvq1448806793.png"
+  },
+  "Al Hilal": {
+    "teamName": "Al Hilal",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/8v4eg91511550505.png"
+  },
+  "VfB Stuttgart": {
+    "teamName": "VfB Stuttgart",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/yppyux1473454085.png"
+  },
+  "SC Braga": {
+    "teamName": "SC Braga",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/vpxupr1471876624.png"
+  },
+  "River Plate": {
+    "teamName": "River Plate",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/gtesbl1517767577.png"
+  },
+  "Deportivo Alavés": {
+    "teamName": "Deportivo Alavés",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/vwqswq1420325494.png"
+  },
+  "": {
+    "teamName": "",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/7qhg311579111301.png"
+  },
+  "Eintracht Frankfurt": {
+    "teamName": "Eintracht Frankfurt",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/rurwpy1473453269.png"
+  },
+  "Girona FC": {
+    "teamName": "Girona FC",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/110062.png"
+  },
+  "Guangzhou R&F; FC": {
+    "teamName": "Guangzhou R&F; FC",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/0yhf0k1580938533.png"
+  },
+  "Burnley": {
+    "teamName": "Burnley",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/sqrttx1448811003.png"
+  },
+  "Stoke City": {
+    "teamName": "Stoke City",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/ypywwt1448813489.png"
+  },
+  "Southampton": {
+    "teamName": "Southampton",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/qusxss1448813481.png"
+  },
+  "Tianjin Quanjian FC": {
+    "teamName": "Tianjin Quanjian FC",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/112983.png"
+  },
+  "Getafe CF": {
+    "teamName": "Getafe CF",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/1860.png"
+  },
+  "Beijing Renhe FC": {
+    "teamName": "Beijing Renhe FC",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/112537.png"
+  },
+  "Montreal Impact": {
+    "teamName": "Montreal Impact",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/qpyxsr1473536442.png"
+  },
+  "Chievo Verona": {
+    "teamName": "Chievo Verona",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/vyrqyp1448806263.png"
+  },
+  "Genoa": {
+    "teamName": "Genoa",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/rqqvwv1448806429.png"
+  },
+  "Portland Timbers": {
+    "teamName": "Portland Timbers",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/skm30j1557953559.png"
+  },
+  "Tigres U.A.N.L.": {
+    "teamName": "Tigres U.A.N.L.",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/1970.png"
+  },
+  "RCD Espanyol": {
+    "teamName": "RCD Espanyol",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/452.png"
+  },
+  "Hebei China Fortune FC": {
+    "teamName": "Hebei China Fortune FC",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/112978.png"
+  },
+  "Cagliari": {
+    "teamName": "Cagliari",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/wvsvxt1447534471.png"
+  },
+  "Chicago Fire": {
+    "teamName": "Chicago Fire",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/kjhf3o1579347879.png"
+  },
+  "DC United": {
+    "teamName": "DC United",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/uwvsyt1467462609.png"
+  },
+  "Sagan Tosu": {
+    "teamName": "Sagan Tosu",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/jsepp91578250937.png"
+  },
+  "Dynamo Kyiv": {
+    "teamName": "Dynamo Kyiv",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/101047.png"
+  },
+  "Santos": {
+    "teamName": "Santos",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/nq32gy1557078230.png"
+  },
+  "Internacional": {
+    "teamName": "Internacional",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/yprvxx1473538097.png"
+  },
+  "América FC (Minas Gerais)": {
+    "teamName": "América FC (Minas Gerais)",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/112001.png"
+  },
+  "Independiente": {
+    "teamName": "Independiente",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/eki4nd1580842605.png"
+  },
+  "Boca Juniors": {
+    "teamName": "Boca Juniors",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/rjl2be1517768150.png"
+  },
+  "Cruz Azul": {
+    "teamName": "Cruz Azul",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/surwtp1473541834.png"
+  },
+  "1. FSV Mainz 05": {
+    "teamName": "1. FSV Mainz 05",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/or5zw01580142149.png"
+  },
+  "Bournemouth": {
+    "teamName": "Bournemouth",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/y08nak1534071116.png"
+  },
+  "Spartak Moscow": {
+    "teamName": "Spartak Moscow",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/xqvvys1473452323.png"
+  },
+  "Racing Club": {
+    "teamName": "Racing Club",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/yuxtyy1464540071.png"
+  },
+  "FC Augsburg": {
+    "teamName": "FC Augsburg",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/xqyyvq1473453233.png"
+  },
+  "Fiorentina": {
+    "teamName": "Fiorentina",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/twwqss1448806409.png"
+  },
+  "FC Nantes": {
+    "teamName": "FC Nantes",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/q1fsb91569264657.png"
+  },
+  "Feyenoord": {
+    "teamName": "Feyenoord",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/uturtx1473534803.png"
+  },
+  "Club Brugge KV": {
+    "teamName": "Club Brugge KV",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/231.png"
+  },
+  "Brighton & Hove Albion": {
+    "teamName": "Brighton & Hove Albion",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/ywypts1448810904.png"
+  },
+  "Al Ahli": {
+    "teamName": "Al Ahli",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/caudq31578860542.png"
+  },
+  "Jiangsu Suning FC": {
+    "teamName": "Jiangsu Suning FC",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/112162.png"
+  },
+  "SC Freiburg": {
+    "teamName": "SC Freiburg",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/7hoz8s1580141833.png"
+  },
+  "PAOK": {
+    "teamName": "PAOK",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/0vwl291534785701.png"
+  },
+  "Stade Rennais FC": {
+    "teamName": "Stade Rennais FC",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/74.png"
+  },
+  "Trabzonspor": {
+    "teamName": "Trabzonspor",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/rrsrvv1448204214.png"
+  },
+  "SPAL": {
+    "teamName": "SPAL",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/wttptv1426703169.png"
+  },
+  "Portimonense SC": {
+    "teamName": "Portimonense SC",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/10031.png"
+  },
+  "Olympiacos CFP": {
+    "teamName": "Olympiacos CFP",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/280.png"
+  },
+  "Club Atlético Huracán": {
+    "teamName": "Club Atlético Huracán",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/111711.png"
+  },
+  "Kasimpaşa SK": {
+    "teamName": "Kasimpaşa SK",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/111339.png"
+  },
+  "Newcastle United": {
+    "teamName": "Newcastle United",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/1zs5ku1578041680.png"
+  },
+  "Frosinone": {
+    "teamName": "Frosinone",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/yuursp1427137521.png"
+  },
+  "Querétaro": {
+    "teamName": "Querétaro",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/uytxuq1473541896.png"
+  },
+  "KRC Genk": {
+    "teamName": "KRC Genk",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/tp06te1534875918.png"
+  },
+  "Stade Malherbe Caen": {
+    "teamName": "Stade Malherbe Caen",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/210.png"
+  },
+  "Hannover 96": {
+    "teamName": "Hannover 96",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/tqpqqv1473454148.png"
+  },
+  "Godoy Cruz": {
+    "teamName": "Godoy Cruz",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/d3c0ds1517768584.png"
+  },
+  "Toulouse Football Club": {
+    "teamName": "Toulouse Football Club",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/1809.png"
+  },
+  "RSC Anderlecht": {
+    "teamName": "RSC Anderlecht",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/229.png"
+  },
+  "Huddersfield Town": {
+    "teamName": "Huddersfield Town",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/qtusqx1420753809.png"
+  },
+  "CD Tondela": {
+    "teamName": "CD Tondela",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/112516.png"
+  },
+  "Seattle Sounders FC": {
+    "teamName": "Seattle Sounders FC",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/7em1q51580480820.png"
+  },
+  "Hamburger SV": {
+    "teamName": "Hamburger SV",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/tvtppt1473453296.png"
+  },
+  "FC Red Bull Salzburg": {
+    "teamName": "FC Red Bull Salzburg",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/xy1m6m1576416143.png"
+  },
+  "Rio Ave FC": {
+    "teamName": "Rio Ave FC",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/744.png"
+  },
+  "FC Girondins de Bordeaux": {
+    "teamName": "FC Girondins de Bordeaux",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/59.png"
+  },
+  "Melbourne Victory": {
+    "teamName": "Melbourne Victory",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/wwvsqx1473454564.png"
+  },
+  "Parma": {
+    "teamName": "Parma",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/otbbzf1521402015.png"
+  },
+  "FC Basel 1893": {
+    "teamName": "FC Basel 1893",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/xppxwr1473791183.png"
+  },
+  "Al Wehda": {
+    "teamName": "Al Wehda",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/112408.png"
+  },
+  "BSC Young Boys": {
+    "teamName": "BSC Young Boys",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/9mxdoo1534784569.png"
+  },
+  "KAA Gent": {
+    "teamName": "KAA Gent",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/vywrqv1447617922.png"
+  },
+  "Al Ittihad": {
+    "teamName": "Al Ittihad",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/47cxb81511550872.png"
+  },
+  "Standard de Liège": {
+    "teamName": "Standard de Liège",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/232.png"
+  },
+  "Shanghai Greenland Shenhua FC": {
+    "teamName": "Shanghai Greenland Shenhua FC",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/110955.png"
+  },
+  "Colo-Colo": {
+    "teamName": "Colo-Colo",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/s41be31578347962.png"
+  },
+  "Junior FC": {
+    "teamName": "Junior FC",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/101101.png"
+  },
+  "West Bromwich Albion": {
+    "teamName": "West Bromwich Albion",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/rsvuxw1448813527.png"
+  },
+  "RC Strasbourg Alsace": {
+    "teamName": "RC Strasbourg Alsace",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/76.png"
+  },
+  "Göztepe SK": {
+    "teamName": "Göztepe SK",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/101026.png"
+  },
+  "Deportivo Cali": {
+    "teamName": "Deportivo Cali",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/isc2yu1580833286.png"
+  },
+  "Deportivo Toluca": {
+    "teamName": "Deportivo Toluca",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/1882.png"
+  },
+  "Bologna": {
+    "teamName": "Bologna",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/ytytyp1448806245.png"
+  },
+  "Nagoya Grampus": {
+    "teamName": "Nagoya Grampus",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/pdwl4y1578239222.png"
+  },
+  "Amiens SC": {
+    "teamName": "Amiens SC",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/1816.png"
+  },
+  "Changchun Yatai FC": {
+    "teamName": "Changchun Yatai FC",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/111769.png"
+  },
+  "Club Atlético Lanús": {
+    "teamName": "Club Atlético Lanús",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/110395.png"
+  },
+  "Botafogo": {
+    "teamName": "Botafogo",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/txxyyx1473538026.png"
+  },
+  "Club América": {
+    "teamName": "Club América",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/1879.png"
+  },
+  "Udinese": {
+    "teamName": "Udinese",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/vwvstr1448806811.png"
+  },
+  "Real Valladolid CF": {
+    "teamName": "Real Valladolid CF",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/462.png"
+  },
+  "CD Leganés": {
+    "teamName": "CD Leganés",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/100888.png"
+  },
+  "Club Atlético Banfield": {
+    "teamName": "Club Atlético Banfield",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/110404.png"
+  },
+  "Celtic": {
+    "teamName": "Celtic",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/tswuut1447597436.png"
+  },
+  "Vitória Guimarães": {
+    "teamName": "Vitória Guimarães",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/1887.png"
+  },
+  "FC København": {
+    "teamName": "FC København",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/styqtr1473535513.png"
+  },
+  "UD Las Palmas": {
+    "teamName": "UD Las Palmas",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/472.png"
+  },
+  "Deportivo de La Coruña": {
+    "teamName": "Deportivo de La Coruña",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/wtssuy1473502941.png"
+  },
+  "Universidad Católica": {
+    "teamName": "Universidad Católica",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/1nj6g51578347856.png"
+  },
+  "San Lorenzo de Almagro": {
+    "teamName": "San Lorenzo de Almagro",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/1013.png"
+  },
+  "Rayo Vallecano": {
+    "teamName": "Rayo Vallecano",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/xsvwqu1473503721.png"
+  },
+  "Monterrey": {
+    "teamName": "Monterrey",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/supvxp1429409101.png"
+  },
+  "Columbus Crew SC": {
+    "teamName": "Columbus Crew SC",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/687.png"
+  },
+  "MKE Ankaragücü": {
+    "teamName": "MKE Ankaragücü",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/101007.png"
+  },
+  "Guizhou Hengfeng FC": {
+    "teamName": "Guizhou Hengfeng FC",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/112977.png"
+  },
+  "Swansea City": {
+    "teamName": "Swansea City",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/vwxqrx1448813505.png"
+  },
+  "Tianjin TEDA FC": {
+    "teamName": "Tianjin TEDA FC",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/111774.png"
+  },
+  "Chongqing Dangdai Lifan FC SWM Team": {
+    "teamName": "Chongqing Dangdai Lifan FC SWM Team",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/112165.png"
+  },
+  "AEK Athens": {
+    "teamName": "AEK Athens",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/rpqvwx1448206238.png"
+  },
+  "Al Taawoun": {
+    "teamName": "Al Taawoun",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/112393.png"
+  },
+  "Melbourne City FC": {
+    "teamName": "Melbourne City FC",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/quqsvq1423789549.png"
+  },
+  "En Avant de Guingamp": {
+    "teamName": "En Avant de Guingamp",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/62.png"
+  },
+  "Akhisar Belediyespor": {
+    "teamName": "Akhisar Belediyespor",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/rtvpvs1448198981.png"
+  },
+  "Foggia": {
+    "teamName": "Foggia",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/xwspru1429973536.png"
+  },
+  "LOSC Lille": {
+    "teamName": "LOSC Lille",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/65.png"
+  },
+  "1. FC Nürnberg": {
+    "teamName": "1. FC Nürnberg",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/qsvwty1473454094.png"
+  },
+  "Clube Sport Marítimo": {
+    "teamName": "Clube Sport Marítimo",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/1893.png"
+  },
+  "Real Sporting de Gijón": {
+    "teamName": "Real Sporting de Gijón",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/459.png"
+  },
+  "BB Erzurumspor": {
+    "teamName": "BB Erzurumspor",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/749.png"
+  },
+  "Shandong Luneng TaiShan FC": {
+    "teamName": "Shandong Luneng TaiShan FC",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/111724.png"
+  },
+  "Club Atlético Colón": {
+    "teamName": "Club Atlético Colón",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/110406.png"
+  },
+  "Bahia": {
+    "teamName": "Bahia",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/xuvtsv1473539308.png"
+  },
+  "Once Caldas": {
+    "teamName": "Once Caldas",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/83nbym1576165758.png"
+  },
+  "FC Groningen": {
+    "teamName": "FC Groningen",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/twtvss1473534775.png"
+  },
+  "Angers SCO": {
+    "teamName": "Angers SCO",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/twtppr1426871974.png"
+  },
+  "Paraná": {
+    "teamName": "Paraná",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/vuuwqu1464886978.png"
+  },
+  "Antalyaspor": {
+    "teamName": "Antalyaspor",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/wwypqp1448198654.png"
+  },
+  "Minnesota United FC": {
+    "teamName": "Minnesota United FC",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/111138.png"
+  },
+  "Club León": {
+    "teamName": "Club León",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/wxurqw1473541842.png"
+  },
+  "Empoli": {
+    "teamName": "Empoli",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/uuwtyx1448806449.png"
+  },
+  "VVV-Venlo": {
+    "teamName": "VVV-Venlo",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/ii0fu01566053253.png"
+  },
+  "Leeds United": {
+    "teamName": "Leeds United",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/1l99o71588078051.png"
+  },
+  "Viktoria Plzeň": {
+    "teamName": "Viktoria Plzeň",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/wvquyv1473955372.png"
+  },
+  "Alanyaspor": {
+    "teamName": "Alanyaspor",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/xxtpyt1471899047.png"
+  },
+  "Atlético Paranaense": {
+    "teamName": "Atlético Paranaense",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/irzu1u1554237406.png"
+  },
+  "Derby County": {
+    "teamName": "Derby County",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/jioo4z1557155744.png"
+  },
+  "Kawasaki Frontale": {
+    "teamName": "Kawasaki Frontale",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/c6pot51578239112.png"
+  },
+  "Cardiff City": {
+    "teamName": "Cardiff City",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/1961.png"
+  },
+  "Aston Villa": {
+    "teamName": "Aston Villa",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/aofmzk1565427581.png"
+  },
+  "Guadalajara": {
+    "teamName": "Guadalajara",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/1880.png"
+  },
+  "Dijon FCO": {
+    "teamName": "Dijon FCO",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/viin5f1547898121.png"
+  },
+  "Santos Laguna": {
+    "teamName": "Santos Laguna",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/110144.png"
+  },
+  "Málaga CF": {
+    "teamName": "Málaga CF",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/573.png"
+  },
+  "Vitória": {
+    "teamName": "Vitória",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/tysrrx1473538156.png"
+  },
+  "Çaykur Rizespor": {
+    "teamName": "Çaykur Rizespor",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/101037.png"
+  },
+  "U.N.A.M.": {
+    "teamName": "U.N.A.M.",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/1881.png"
+  },
+  "Nottingham Forest": {
+    "teamName": "Nottingham Forest",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/bk4qjs1546440351.png"
+  },
+  "Royal Antwerp FC": {
+    "teamName": "Royal Antwerp FC",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/230.png"
+  },
+  "Club Tijuana": {
+    "teamName": "Club Tijuana",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/111678.png"
+  },
+  "Sport Club do Recife": {
+    "teamName": "Sport Club do Recife",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/tyrbls1545421563.png"
+  },
+  "Real Salt Lake": {
+    "teamName": "Real Salt Lake",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/kkjlfa1556488022.png"
+  },
+  "AZ Alkmaar": {
+    "teamName": "AZ Alkmaar",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/wtqwvv1473534757.png"
+  },
+  "SK Slavia Praha": {
+    "teamName": "SK Slavia Praha",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/266.png"
+  },
+  "Willem II": {
+    "teamName": "Willem II",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/yqqrps1473534873.png"
+  },
+  "Middlesbrough": {
+    "teamName": "Middlesbrough",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/xxpttq1448811142.png"
+  },
+  "Dinamo Zagreb": {
+    "teamName": "Dinamo Zagreb",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/araidi1579955395.png"
+  },
+  "Club Atlas": {
+    "teamName": "Club Atlas",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/101114.png"
+  },
+  "Granada CF": {
+    "teamName": "Granada CF",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/vvprwu1473502932.png"
+  },
+  "Sydney FC": {
+    "teamName": "Sydney FC",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/utgq8z1546110747.png"
+  },
+  "Sporting Kansas City": {
+    "teamName": "Sporting Kansas City",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/yi3g1k1580419612.png"
+  },
+  "SV Zulte-Waregem": {
+    "teamName": "SV Zulte-Waregem",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/15005.png"
+  },
+  "Philadelphia Union": {
+    "teamName": "Philadelphia Union",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/3vn1w81580414584.png"
+  },
+  "Real Oviedo": {
+    "teamName": "Real Oviedo",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/yuwqus1447590681.png"
+  },
+  "Pachuca": {
+    "teamName": "Pachuca",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/txppwr1473541853.png"
+  },
+  "Boavista FC": {
+    "teamName": "Boavista FC",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/1898.png"
+  },
+  "Atiker Konyaspor": {
+    "teamName": "Atiker Konyaspor",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/101033.png"
+  },
+  "Kaizer Chiefs": {
+    "teamName": "Kaizer Chiefs",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/akwtlr1583614121.png"
+  },
+  "GD Chaves": {
+    "teamName": "GD Chaves",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/518.png"
+  },
+  "Palermo": {
+    "teamName": "Palermo",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/svstur1448806633.png"
+  },
+  "Atlético Nacional": {
+    "teamName": "Atlético Nacional",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/efl4o41576157720.png"
+  },
+  "Puebla FC": {
+    "teamName": "Puebla FC",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/110152.png"
+  },
+  "Perth Glory": {
+    "teamName": "Perth Glory",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/qmx19q1546110444.png"
+  },
+  "Panathinaikos FC": {
+    "teamName": "Panathinaikos FC",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/1884.png"
+  },
+  "FC Sion": {
+    "teamName": "FC Sion",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/lu7bxr1581261354.png"
+  },
+  "Vitória de Setúbal": {
+    "teamName": "Vitória de Setúbal",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/665.png"
+  },
+  "New York Red Bulls": {
+    "teamName": "New York Red Bulls",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/suytvy1473536462.png"
+  },
+  "Al Shabab": {
+    "teamName": "Al Shabab",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/99etnp1511552465.png"
+  },
+  "Monarcas Morelia": {
+    "teamName": "Monarcas Morelia",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/1028.png"
+  },
+  "Albacete BP": {
+    "teamName": "Albacete BP",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/1854.png"
+  },
+  "Rangers FC": {
+    "teamName": "Rangers FC",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/86.png"
+  },
+  "Sparta Praha": {
+    "teamName": "Sparta Praha",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/267.png"
+  },
+  "Legia Warszawa": {
+    "teamName": "Legia Warszawa",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/quvvxy1448219067.png"
+  },
+  "Urawa Red Diamonds": {
+    "teamName": "Urawa Red Diamonds",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/ce3lhk1578239741.png"
+  },
+  "Rosario Central": {
+    "teamName": "Rosario Central",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/drkw901517769085.png"
+  },
+  "Stade de Reims": {
+    "teamName": "Stade de Reims",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/wqxupr1473505457.png"
+  },
+  "ADO Den Haag": {
+    "teamName": "ADO Den Haag",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/vpvtqt1473534732.png"
+  },
+  "Chapecoense": {
+    "teamName": "Chapecoense",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/tqwywq1473538034.png"
+  },
+  "FC Midtjylland": {
+    "teamName": "FC Midtjylland",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/vptqvr1473535525.png"
+  },
+  "San Jose Earthquakes": {
+    "teamName": "San Jose Earthquakes",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/xyrqqt1420781048.png"
+  },
+  "Belgrano de Córdoba": {
+    "teamName": "Belgrano de Córdoba",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/111022.png"
+  },
+  "Brescia": {
+    "teamName": "Brescia",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/k0qhbd1566756266.png"
+  },
+  "Kashima Antlers": {
+    "teamName": "Kashima Antlers",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/2s8ady1578238881.png"
+  },
+  "CD Everton de Viña del Mar": {
+    "teamName": "CD Everton de Viña del Mar",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/112584.png"
+  },
+  "Fortuna Düsseldorf": {
+    "teamName": "Fortuna Düsseldorf",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/rsruww1473454140.png"
+  },
+  "SD Huesca": {
+    "teamName": "SD Huesca",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/tuxusx1447590509.png"
+  },
+  "Preston North End": {
+    "teamName": "Preston North End",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/wqtwvw1448811512.png"
+  },
+  "Club Atlético Talleres": {
+    "teamName": "Club Atlético Talleres",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/112670.png"
+  },
+  "Benevento": {
+    "teamName": "Benevento",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/rvwtpt1426870819.png"
+  },
+  "Vitesse": {
+    "teamName": "Vitesse",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/wrptxp1473534864.png"
+  },
+  "Gimnasia y Esgrima La Plata": {
+    "teamName": "Gimnasia y Esgrima La Plata",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/101084.png"
+  },
+  "Houston Dynamo": {
+    "teamName": "Houston Dynamo",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/qwsvsu1473536429.png"
+  },
+  "Club Necaxa": {
+    "teamName": "Club Necaxa",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/101121.png"
+  },
+  "Norwich City": {
+    "teamName": "Norwich City",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/1792.png"
+  },
+  "Holstein Kiel": {
+    "teamName": "Holstein Kiel",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/1fpmgs1514394524.png"
+  },
+  "Ettifaq FC": {
+    "teamName": "Ettifaq FC",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/112096.png"
+  },
+  "Kayserispor": {
+    "teamName": "Kayserispor",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/yqyypy1448197460.png"
+  },
+  "1. FC Heidenheim 1846": {
+    "teamName": "1. FC Heidenheim 1846",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/tsqyrt1434708365.png"
+  },
+  "Brentford": {
+    "teamName": "Brentford",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/grv1aw1546453779.png"
+  },
+  "Yeni Malatyaspor": {
+    "teamName": "Yeni Malatyaspor",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/v6kix91521109459.png"
+  },
+  "Lobos BUAP": {
+    "teamName": "Lobos BUAP",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/pxchy41515431042.png"
+  },
+  "Bursaspor": {
+    "teamName": "Bursaspor",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/uyptpr1448199354.png"
+  },
+  "Ceará Sporting Club": {
+    "teamName": "Ceará Sporting Club",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/111059.png"
+  },
+  "Sheffield United": {
+    "teamName": "Sheffield United",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/qutsut1424032614.png"
+  },
+  "FC Ingolstadt 04": {
+    "teamName": "FC Ingolstadt 04",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/111239.png"
+  },
+  "Estudiantes de La Plata": {
+    "teamName": "Estudiantes de La Plata",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/anlus01517768424.png"
+  },
+  "AIK": {
+    "teamName": "AIK",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png"
+  },
+  "Queens Park Rangers": {
+    "teamName": "Queens Park Rangers",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/yvsuur1467462183.png"
+  },
+  "Suwon Samsung Bluewings": {
+    "teamName": "Suwon Samsung Bluewings",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/ym5u611579473171.png"
+  },
+  "Heart of Midlothian": {
+    "teamName": "Heart of Midlothian",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/twqvyt1447597939.png"
+  },
+  "Reading": {
+    "teamName": "Reading",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/tprvtu1448811527.png"
+  },
+  "FC Dallas": {
+    "teamName": "FC Dallas",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/vwpyuy1473536421.png"
+  },
+  "Heracles Almelo": {
+    "teamName": "Heracles Almelo",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/100634.png"
+  },
+  "Venezia FC": {
+    "teamName": "Venezia FC",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/205.png"
+  },
+  "CD Lugo": {
+    "teamName": "CD Lugo",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/110831.png"
+  },
+  "Henan Jianye FC": {
+    "teamName": "Henan Jianye FC",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/111779.png"
+  },
+  "Orlando City SC": {
+    "teamName": "Orlando City SC",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/qyppxw1423832326.png"
+  },
+  "CA Osasuna": {
+    "teamName": "CA Osasuna",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/479.png"
+  },
+  "NAC Breda": {
+    "teamName": "NAC Breda",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/ute4en1544965805.png"
+  },
+  "Livorno": {
+    "teamName": "Livorno",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/yqqpsx1448807579.png"
+  },
+  "Universidad de Chile": {
+    "teamName": "Universidad de Chile",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/po0o3c1578347873.png"
+  },
+  "Brøndby IF": {
+    "teamName": "Brøndby IF",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/ywswyw1473535498.png"
+  },
+  "Aberdeen": {
+    "teamName": "Aberdeen",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/xuvwys1447597299.png"
+  },
+  "Defensa y Justicia": {
+    "teamName": "Defensa y Justicia",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/qu1qrk1517768329.png"
+  },
+  "Atlético Tucumán": {
+    "teamName": "Atlético Tucumán",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/sqvwxw1471876021.png"
+  },
+  "Blackburn Rovers": {
+    "teamName": "Blackburn Rovers",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/3.png"
+  },
+  "SV Darmstadt 98": {
+    "teamName": "SV Darmstadt 98",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/sywvwt1429573865.png"
+  },
+  "Moreirense FC": {
+    "teamName": "Moreirense FC",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/1900.png"
+  },
+  "Sanfrecce Hiroshima": {
+    "teamName": "Sanfrecce Hiroshima",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/qwqqt81578239488.png"
+  },
+  "CD Numancia": {
+    "teamName": "CD Numancia",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/477.png"
+  },
+  "KV Oostende": {
+    "teamName": "KV Oostende",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/yxuuxp1447618247.png"
+  },
+  "FC Utrecht": {
+    "teamName": "FC Utrecht",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/txvxrx1473534794.png"
+  },
+  "Vancouver Whitecaps FC": {
+    "teamName": "Vancouver Whitecaps FC",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/101112.png"
+  },
+  "Odense Boldklub": {
+    "teamName": "Odense Boldklub",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/272.png"
+  },
+  "SC Heerenveen": {
+    "teamName": "SC Heerenveen",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/surtsx1473534841.png"
+  },
+  "Racing Club de Lens": {
+    "teamName": "Racing Club de Lens",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/64.png"
+  },
+  "Independiente Santa Fe": {
+    "teamName": "Independiente Santa Fe",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/wfw11b1576166974.png"
+  },
+  "Sporting de Charleroi": {
+    "teamName": "Sporting de Charleroi",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/670.png"
+  },
+  "Millonarios FC": {
+    "teamName": "Millonarios FC",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/101105.png"
+  },
+  "Sheffield Wednesday": {
+    "teamName": "Sheffield Wednesday",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/vttpyw1464537789.png"
+  },
+  "Perugia": {
+    "teamName": "Perugia",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/trqsww1429572700.png"
+  },
+  "Daegu FC": {
+    "teamName": "Daegu FC",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/xzjzn11579473073.png"
+  },
+  "Vélez Sarsfield": {
+    "teamName": "Vélez Sarsfield",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/jo98m71517769587.png"
+  },
+  "Grasshopper Club Zürich": {
+    "teamName": "Grasshopper Club Zürich",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/322.png"
+  },
+  "Sivasspor": {
+    "teamName": "Sivasspor",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/qxxsxu1448204098.png"
+  },
+  "Nîmes Olympique": {
+    "teamName": "Nîmes Olympique",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/7ghm2i1547892868.png"
+  },
+  "Rosenborg BK": {
+    "teamName": "Rosenborg BK",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/298.png"
+  },
+  "SK Sturm Graz": {
+    "teamName": "SK Sturm Graz",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/209.png"
+  },
+  "FC Metz": {
+    "teamName": "FC Metz",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/qi3kbg1565469380.png"
+  },
+  "CD Universidad de Concepción": {
+    "teamName": "CD Universidad de Concepción",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/112534.png"
+  },
+  "Hellas Verona": {
+    "teamName": "Hellas Verona",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/ht7pwm1566757149.png"
+  },
+  "Brisbane Roar": {
+    "teamName": "Brisbane Roar",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/sypxsu1473454634.png"
+  },
+  "CD Feirense": {
+    "teamName": "CD Feirense",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/10019.png"
+  },
+  "Hull City": {
+    "teamName": "Hull City",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/sxxpvq1448811121.png"
+  },
+  "Waasland-Beveren": {
+    "teamName": "Waasland-Beveren",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/rttvxy1447619639.png"
+  },
+  "Neuchâtel Xamax": {
+    "teamName": "Neuchâtel Xamax",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/k4xewp1578944328.png"
+  },
+  "Real Zaragoza": {
+    "teamName": "Real Zaragoza",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/sxpwxs1473503702.png"
+  },
+  "CD Aves": {
+    "teamName": "CD Aves",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/666.png"
+  },
+  "Millwall": {
+    "teamName": "Millwall",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/5p1z5k1537208888.png"
+  },
+  "Unión de Santa Fe": {
+    "teamName": "Unión de Santa Fe",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/111716.png"
+  },
+  "KAS Eupen": {
+    "teamName": "KAS Eupen",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/2013.png"
+  },
+  "Cádiz CF": {
+    "teamName": "Cádiz CF",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/1968.png"
+  },
+  "FC Tokyo": {
+    "teamName": "FC Tokyo",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/q77wau1578238574.png"
+  },
+  "CD Tenerife": {
+    "teamName": "CD Tenerife",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/260.png"
+  },
+  "1. FC Union Berlin": {
+    "teamName": "1. FC Union Berlin",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/uxxpvw1426865455.png"
+  },
+  "Al Fayha": {
+    "teamName": "Al Fayha",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/113057.png"
+  },
+  "AJ Auxerre": {
+    "teamName": "AJ Auxerre",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/wsxpps1473505490.png"
+  },
+  "Patriotas Boyacá FC": {
+    "teamName": "Patriotas Boyacá FC",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/112527.png"
+  },
+  "Molde FK": {
+    "teamName": "Molde FK",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/417.png"
+  },
+  "Bristol City": {
+    "teamName": "Bristol City",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/txsqwu1424033307.png"
+  },
+  "CD Nacional": {
+    "teamName": "CD Nacional",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/xqyxrt1471878436.png"
+  },
+  "Sporting Lokeren": {
+    "teamName": "Sporting Lokeren",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/ywqtpx1447618455.png"
+  },
+  "FC St. Pauli": {
+    "teamName": "FC St. Pauli",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/wxuwvv1426865551.png"
+  },
+  "Deportes Iquique": {
+    "teamName": "Deportes Iquique",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/w9oq1y1578347772.png"
+  },
+  "Al Qadisiyah": {
+    "teamName": "Al Qadisiyah",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/112391.png"
+  },
+  "Atlético Bucaramanga": {
+    "teamName": "Atlético Bucaramanga",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/rtjs411576157184.png"
+  },
+  "Club Atlético Tigre": {
+    "teamName": "Club Atlético Tigre",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/y0pfyw1517769451.png"
+  },
+  "FK Austria Wien": {
+    "teamName": "FK Austria Wien",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/256.png"
+  },
+  "Patronato": {
+    "teamName": "Patronato",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/1u0gms1580842653.png"
+  },
+  "Malmö FF": {
+    "teamName": "Malmö FF",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/wvvuqs1420764546.png"
+  },
+  "Kashiwa Reysol": {
+    "teamName": "Kashiwa Reysol",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/mwnejb1578238986.png"
+  },
+  "US Cremonese": {
+    "teamName": "US Cremonese",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/111434.png"
+  },
+  "VfL Bochum 1848": {
+    "teamName": "VfL Bochum 1848",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/160.png"
+  },
+  "SK Rapid Wien": {
+    "teamName": "SK Rapid Wien",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/254.png"
+  },
+  "KSV Cercle Brugge": {
+    "teamName": "KSV Cercle Brugge",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/1750.png"
+  },
+  "Rionegro Águilas": {
+    "teamName": "Rionegro Águilas",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/pmrgr51576166603.png"
+  },
+  "Gimnàstic de Tarragona": {
+    "teamName": "Gimnàstic de Tarragona",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/15019.png"
+  },
+  "Lecce": {
+    "teamName": "Lecce",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/j4vznr1567365249.png"
+  },
+  "Santa Clara": {
+    "teamName": "Santa Clara",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/b45ikv1579636177.png"
+  },
+  "BK Häcken": {
+    "teamName": "BK Häcken",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/711.png"
+  },
+  "New England Revolution": {
+    "teamName": "New England Revolution",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/hc87qv1548706452.png"
+  },
+  "Orlando Pirates": {
+    "teamName": "Orlando Pirates",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/y6dbv61583616330.png"
+  },
+  "Atlético Huila": {
+    "teamName": "Atlético Huila",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/33c2t51581253636.png"
+  },
+  "Western Sydney Wanderers": {
+    "teamName": "Western Sydney Wanderers",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/uwwypu1421146293.png"
+  },
+  "Kalmar FF": {
+    "teamName": "Kalmar FF",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/swuwxt1429903006.png"
+  },
+  "Independiente Medellín": {
+    "teamName": "Independiente Medellín",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/gikde01576160832.png"
+  },
+  "Fortuna Sittard": {
+    "teamName": "Fortuna Sittard",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/6z9a051513777590.png"
+  },
+  "Lech Poznań": {
+    "teamName": "Lech Poznań",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/tvstpp1448218832.png"
+  },
+  "Djurgårdens IF": {
+    "teamName": "Djurgårdens IF",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/yuuwru1425411493.png"
+  },
+  "CF Reus Deportiu": {
+    "teamName": "CF Reus Deportiu",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/110854.png"
+  },
+  "SK Brann": {
+    "teamName": "SK Brann",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/919.png"
+  },
+  "Ulsan Hyundai FC": {
+    "teamName": "Ulsan Hyundai FC",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/gh7k2s1579473198.png"
+  },
+  "Sint-Truidense VV": {
+    "teamName": "Sint-Truidense VV",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/680.png"
+  },
+  "Carpi": {
+    "teamName": "Carpi",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/eou7tx1579605812.png"
+  },
+  "Al Fateh": {
+    "teamName": "Al Fateh",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/193exh1511549410.png"
+  },
+  "Royal Excel Mouscron": {
+    "teamName": "Royal Excel Mouscron",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/i2oziv1579459797.png"
+  },
+  "AC Ajaccio": {
+    "teamName": "AC Ajaccio",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/qpxvwy1473505505.png"
+  },
+  "PEC Zwolle": {
+    "teamName": "PEC Zwolle",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/qpvqwy1473534822.png"
+  },
+  "Sunderland": {
+    "teamName": "Sunderland",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/tprtus1448813498.png"
+  },
+  "Club Atlético Aldosivi": {
+    "teamName": "Club Atlético Aldosivi",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/111707.png"
+  },
+  "US Salernitana 1919": {
+    "teamName": "US Salernitana 1919",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/110373.png"
+  },
+  "FC Lorient": {
+    "teamName": "FC Lorient",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/sxsttw1473504748.png"
+  },
+  "Argentinos Juniors": {
+    "teamName": "Argentinos Juniors",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/me7a601580842569.png"
+  },
+  "AD Alcorcón": {
+    "teamName": "AD Alcorcón",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/100831.png"
+  },
+  "Crotone": {
+    "teamName": "Crotone",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/z6ml2h1579708302.png"
+  },
+  "Excelsior": {
+    "teamName": "Excelsior",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/wqsuux1473534765.png"
+  },
+  "KV Kortrijk": {
+    "teamName": "KV Kortrijk",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/100081.png"
+  },
+  "IFK Norrköping": {
+    "teamName": "IFK Norrköping",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/702.png"
+  },
+  "Adelaide United": {
+    "teamName": "Adelaide United",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/wpyuwv1473454602.png"
+  },
+  "FC St. Gallen": {
+    "teamName": "FC St. Gallen",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/tyvyvs1422644512.png"
+  },
+  "Tiburones Rojos de Veracruz": {
+    "teamName": "Tiburones Rojos de Veracruz",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/110145.png"
+  },
+  "CD Palestino": {
+    "teamName": "CD Palestino",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/111328.png"
+  },
+  "Jeju United FC": {
+    "teamName": "Jeju United FC",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/lrhpwr1581348377.png"
+  },
+  "Deportes Tolima": {
+    "teamName": "Deportes Tolima",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/s9wzhw1576158656.png"
+  },
+  "Jeonbuk Hyundai Motors": {
+    "teamName": "Jeonbuk Hyundai Motors",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/k8m4vg1579473151.png"
+  },
+  "Birmingham City": {
+    "teamName": "Birmingham City",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/rxrryp1467460837.png"
+  },
+  "América de Cali": {
+    "teamName": "América de Cali",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/lwxcn71576156105.png"
+  },
+  "La Equidad": {
+    "teamName": "La Equidad",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/attwsg1576162083.png"
+  },
+  "Spezia": {
+    "teamName": "Spezia",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/xruyty1429572837.png"
+  },
+  "Aalborg BK": {
+    "teamName": "Aalborg BK",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/820.png"
+  },
+  "Le Havre AC": {
+    "teamName": "Le Havre AC",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/1738.png"
+  },
+  "Górnik Zabrze": {
+    "teamName": "Górnik Zabrze",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/vxrpxs1448218657.png"
+  },
+  "Central Coast Mariners": {
+    "teamName": "Central Coast Mariners",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/16igq81547381432.png"
+  },
+  "Wigan Athletic": {
+    "teamName": "Wigan Athletic",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/wtxwyw1448759640.png"
+  },
+  "Jagiellonia Białystok": {
+    "teamName": "Jagiellonia Białystok",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/110745.png"
+  },
+  "Cittadella": {
+    "teamName": "Cittadella",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/uyswus1429572551.png"
+  },
+  "Hibernian": {
+    "teamName": "Hibernian",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/rqyqtv1447604221.png"
+  },
+  "FC Lugano": {
+    "teamName": "FC Lugano",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/10032.png"
+  },
+  "San Martín de San Juan": {
+    "teamName": "San Martín de San Juan",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/l7j84h1517769215.png"
+  },
+  "Strømsgodset IF": {
+    "teamName": "Strømsgodset IF",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/922.png"
+  },
+  "Júbilo Iwata": {
+    "teamName": "Júbilo Iwata",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/101144.png"
+  },
+  "Newell's Old Boys": {
+    "teamName": "Newell's Old Boys",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/110396.png"
+  },
+  "Al Faisaly": {
+    "teamName": "Al Faisaly",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/112389.png"
+  },
+  "Colorado Rapids": {
+    "teamName": "Colorado Rapids",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/uppupv1473536412.png"
+  },
+  "IF Elfsborg": {
+    "teamName": "IF Elfsborg",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/700.png"
+  },
+  "SV Sandhausen": {
+    "teamName": "SV Sandhausen",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/vpwrqq1426865624.png"
+  },
+  "Al Batin": {
+    "teamName": "Al Batin",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/o8f9d21511549175.png"
+  },
+  "Stade Brestois 29": {
+    "teamName": "Stade Brestois 29",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/xppypp1429573992.png"
+  },
+  "UD Almería": {
+    "teamName": "UD Almería",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/1861.png"
+  },
+  "Gyeongnam FC": {
+    "teamName": "Gyeongnam FC",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/nzy70n1581348710.png"
+  },
+  "Yokohama F. Marinos": {
+    "teamName": "Yokohama F. Marinos",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/101151.png"
+  },
+  "Kilmarnock": {
+    "teamName": "Kilmarnock",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/xssqtu1447596951.png"
+  },
+  "Pescara": {
+    "teamName": "Pescara",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/uywyxr1426869739.png"
+  },
+  "Newcastle Jets": {
+    "teamName": "Newcastle Jets",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/qrxusv1473454594.png"
+  },
+  "Córdoba CF": {
+    "teamName": "Córdoba CF",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/1867.png"
+  },
+  "RCD Mallorca": {
+    "teamName": "RCD Mallorca",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/453.png"
+  },
+  "Hammarby IF": {
+    "teamName": "Hammarby IF",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/wwtqtx1429897833.png"
+  },
+  "Cerezo Osaka": {
+    "teamName": "Cerezo Osaka",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/ojjivs1578238433.png"
+  },
+  "KFC Uerdingen 05": {
+    "teamName": "KFC Uerdingen 05",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/it6uwc1579106310.png"
+  },
+  "Shimizu S-Pulse": {
+    "teamName": "Shimizu S-Pulse",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/0d3joq1578239579.png"
+  },
+  "MSV Duisburg": {
+    "teamName": "MSV Duisburg",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/1825.png"
+  },
+  "Os Belenenses": {
+    "teamName": "Os Belenenses",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/1889.png"
+  },
+  "DSC Arminia Bielefeld": {
+    "teamName": "DSC Arminia Bielefeld",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/159.png"
+  },
+  "Ipswich Town": {
+    "teamName": "Ipswich Town",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/quypuq1448811127.png"
+  },
+  "FC Seoul": {
+    "teamName": "FC Seoul",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/31z1zf1579473186.png"
+  },
+  "Lechia Gdańsk": {
+    "teamName": "Lechia Gdańsk",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/swrtpv1448218940.png"
+  },
+  "Gamba Osaka": {
+    "teamName": "Gamba Osaka",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/ux98qj1578238671.png"
+  },
+  "CF Rayo Majadahonda": {
+    "teamName": "CF Rayo Majadahonda",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/110066.png"
+  },
+  "LASK Linz": {
+    "teamName": "LASK Linz",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/252.png"
+  },
+  "Bolton Wanderers": {
+    "teamName": "Bolton Wanderers",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/yvxxrv1448808301.png"
+  },
+  "Al Raed": {
+    "teamName": "Al Raed",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/112392.png"
+  },
+  "Extremadura UD": {
+    "teamName": "Extremadura UD",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/469.png"
+  },
+  "SC Paderborn 07": {
+    "teamName": "SC Paderborn 07",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/10030.png"
+  },
+  "Wellington Phoenix": {
+    "teamName": "Wellington Phoenix",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/oegi471515786300.png"
+  },
+  "Unión Española": {
+    "teamName": "Unión Española",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/u2ehgv1578347739.png"
+  },
+  "Alianza Petrolera": {
+    "teamName": "Alianza Petrolera",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/c3xyv01580833252.png"
+  },
+  "Cracovia": {
+    "teamName": "Cracovia",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/xsuupw1448218508.png"
+  },
+  "Gangwon FC": {
+    "teamName": "Gangwon FC",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/c4igx71579729617.png"
+  },
+  "Elche CF": {
+    "teamName": "Elche CF",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/468.png"
+  },
+  "ESTAC Troyes": {
+    "teamName": "ESTAC Troyes",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/swuwpq1426544753.png"
+  },
+  "AS Béziers": {
+    "teamName": "AS Béziers",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/q5on2y1532856557.png"
+  },
+  "La Berrichonne de Châteauroux": {
+    "teamName": "La Berrichonne de Châteauroux",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/212.png"
+  },
+  "Clermont Foot 63": {
+    "teamName": "Clermont Foot 63",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/1815.png"
+  },
+  "1. FC Magdeburg": {
+    "teamName": "1. FC Magdeburg",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/110588.png"
+  },
+  "Pohang Steelers": {
+    "teamName": "Pohang Steelers",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/janx5d1579473162.png"
+  },
+  "Örebro SK": {
+    "teamName": "Örebro SK",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/705.png"
+  },
+  "Arka Gdynia": {
+    "teamName": "Arka Gdynia",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/ruwqpt1471875543.png"
+  },
+  "SG Dynamo Dresden": {
+    "teamName": "SG Dynamo Dresden",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/yxqvxp1471898795.png"
+  },
+  "SpVgg Greuther Fürth": {
+    "teamName": "SpVgg Greuther Fürth",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/pxs5qu1532777849.png"
+  },
+  "CD Huachipato": {
+    "teamName": "CD Huachipato",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/111327.png"
+  },
+  "Wisła Kraków": {
+    "teamName": "Wisła Kraków",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/qqpvxt1448220005.png"
+  },
+  "Stabæk Fotball": {
+    "teamName": "Stabæk Fotball",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/917.png"
+  },
+  "Eintracht Braunschweig": {
+    "teamName": "Eintracht Braunschweig",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/qpqwxu1429572148.png"
+  },
+  "Valenciennes FC": {
+    "teamName": "Valenciennes FC",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/110456.png"
+  },
+  "FC Thun": {
+    "teamName": "FC Thun",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/1715.png"
+  },
+  "San Luis de Quillota": {
+    "teamName": "San Luis de Quillota",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/112668.png"
+  },
+  "SSV Jahn Regensburg": {
+    "teamName": "SSV Jahn Regensburg",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/gbqi6h1514645358.png"
+  },
+  "Cosenza": {
+    "teamName": "Cosenza",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/tyfgxi1579708280.png"
+  },
+  "FC Nordsjælland": {
+    "teamName": "FC Nordsjælland",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/p2hof41579460164.png"
+  },
+  "FC Erzgebirge Aue": {
+    "teamName": "FC Erzgebirge Aue",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/506.png"
+  },
+  "Jeonnam Dragons": {
+    "teamName": "Jeonnam Dragons",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/p97ems1589558859.png"
+  },
+  "Wolfsberger AC": {
+    "teamName": "Wolfsberger AC",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/xcwuqt1568668946.png"
+  },
+  "Chamois Niortais Football Club": {
+    "teamName": "Chamois Niortais Football Club",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/7w53a21578751661.png"
+  },
+  "Club Deportes Temuco": {
+    "teamName": "Club Deportes Temuco",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/112709.png"
+  },
+  "AS Nancy Lorraine": {
+    "teamName": "AS Nancy Lorraine",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/1823.png"
+  },
+  "Red Star FC": {
+    "teamName": "Red Star FC",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/quxxpt1447594699.png"
+  },
+  "Al Hazem": {
+    "teamName": "Al Hazem",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/113222.png"
+  },
+  "Pogoń Szczecin": {
+    "teamName": "Pogoń Szczecin",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/uxyuwx1448219553.png"
+  },
+  "Charlton Athletic": {
+    "teamName": "Charlton Athletic",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/yyxvxq1448811045.png"
+  },
+  "Grenoble Foot 38": {
+    "teamName": "Grenoble Foot 38",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/x2hcpg1488227785.png"
+  },
+  "FC Hansa Rostock": {
+    "teamName": "FC Hansa Rostock",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/27.png"
+  },
+  "San Martin de Tucumán": {
+    "teamName": "San Martin de Tucumán",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/xymq001532856832.png"
+  },
+  "Incheon United FC": {
+    "teamName": "Incheon United FC",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/2no9nq1579473100.png"
+  },
+  "Śląsk Wrocław": {
+    "teamName": "Śląsk Wrocław",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/wqxhpp1575210758.png"
+  },
+  "GFC Ajaccio": {
+    "teamName": "GFC Ajaccio",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/110316.png"
+  },
+  "1. FC Kaiserslautern": {
+    "teamName": "1. FC Kaiserslautern",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/29.png"
+  },
+  "Deportivo Pasto": {
+    "teamName": "Deportivo Pasto",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/zlmyh31576159327.png"
+  },
+  "Lincoln City": {
+    "teamName": "Lincoln City",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/soaxwx1546439493.png"
+  },
+  "Motherwell": {
+    "teamName": "Motherwell",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/vsysqx1447598301.png"
+  },
+  "Rotherham United": {
+    "teamName": "Rotherham United",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/uruupp1448811536.png"
+  },
+  "Burton Albion": {
+    "teamName": "Burton Albion",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/uvpqpw1423804499.png"
+  },
+  "Wisła Płock": {
+    "teamName": "Wisła Płock",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/qqvust1471875634.png"
+  },
+  "FC Wacker Innsbruck": {
+    "teamName": "FC Wacker Innsbruck",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/2045.png"
+  },
+  "Peterborough United": {
+    "teamName": "Peterborough United",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/tyxsvt1424033035.png"
+  },
+  "Ascoli": {
+    "teamName": "Ascoli",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/mi2bsf1579708272.png"
+  },
+  "FC Zürich": {
+    "teamName": "FC Zürich",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/894.png"
+  },
+  "Fleetwood Town": {
+    "teamName": "Fleetwood Town",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/txwuwp1424032712.png"
+  },
+  "Padova": {
+    "teamName": "Padova",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/hklo0i1579724992.png"
+  },
+  "FC Sochaux-Montbéliard": {
+    "teamName": "FC Sochaux-Montbéliard",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/226.png"
+  },
+  "SV Wehen Wiesbaden": {
+    "teamName": "SV Wehen Wiesbaden",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/8clib21565194003.png"
+  },
+  "Unión La Calera": {
+    "teamName": "Unión La Calera",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/2ipjqa1578347727.png"
+  },
+  "Scunthorpe United": {
+    "teamName": "Scunthorpe United",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/qqupuq1424032474.png"
+  },
+  "CD O'Higgins": {
+    "teamName": "CD O'Higgins",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/112116.png"
+  },
+  "CD Antofagasta": {
+    "teamName": "CD Antofagasta",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/112533.png"
+  },
+  "Plymouth Argyle": {
+    "teamName": "Plymouth Argyle",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/rqsuyx1423806100.png"
+  },
+  "Aarhus GF": {
+    "teamName": "Aarhus GF",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/271.png"
+  },
+  "Lillestrøm SK": {
+    "teamName": "Lillestrøm SK",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/299.png"
+  },
+  "Karlsruher SC": {
+    "teamName": "Karlsruher SC",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/yqvrry1429573259.png"
+  },
+  "GIF Sundsvall": {
+    "teamName": "GIF Sundsvall",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/qpvpvy1429902703.png"
+  },
+  "FC Emmen": {
+    "teamName": "FC Emmen",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/knwhs41532855745.png"
+  },
+  "Barnsley": {
+    "teamName": "Barnsley",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/xvxsuv1447437855.png"
+  },
+  "Audax Italiano": {
+    "teamName": "Audax Italiano",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/0iuwji1578347814.png"
+  },
+  "V-Varen Nagasaki": {
+    "teamName": "V-Varen Nagasaki",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/112448.png"
+  },
+  "Paris FC": {
+    "teamName": "Paris FC",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/yuvtsy1447594254.png"
+  },
+  "SpVgg Unterhaching": {
+    "teamName": "SpVgg Unterhaching",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/7z6ckm1514656939.png"
+  },
+  "Hobro IK": {
+    "teamName": "Hobro IK",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/qptrxt1422407252.png"
+  },
+  "De Graafschap": {
+    "teamName": "De Graafschap",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/srvtpp1447596019.png"
+  },
+  "Hokkaido Consadole Sapporo": {
+    "teamName": "Hokkaido Consadole Sapporo",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/it2q671578253723.png"
+  },
+  "Tromsø IL": {
+    "teamName": "Tromsø IL",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/418.png"
+  },
+  "FC Luzern": {
+    "teamName": "FC Luzern",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/rsupty1473587847.png"
+  },
+  "FK Haugesund": {
+    "teamName": "FK Haugesund",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/ywwwur1448822916.png"
+  },
+  "Zagłębie Lubin": {
+    "teamName": "Zagłębie Lubin",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/usybfj1574191951.png"
+  },
+  "VfR Aalen": {
+    "teamName": "VfR Aalen",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/qwtyxq1426865379.png"
+  },
+  "Dundalk": {
+    "teamName": "Dundalk",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/36fxtd1579281568.png"
+  },
+  "Oxford United": {
+    "teamName": "Oxford United",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/yxptqv1423804011.png"
+  },
+  "Piast Gliwice": {
+    "teamName": "Piast Gliwice",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/qywuux1448219182.png"
+  },
+  "Ohod Club": {
+    "teamName": "Ohod Club",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/113219.png"
+  },
+  "Östersunds FK": {
+    "teamName": "Östersunds FK",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/113173.png"
+  },
+  "Vegalta Sendai": {
+    "teamName": "Vegalta Sendai",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/2xxh2c1578239899.png"
+  },
+  "Crawley Town": {
+    "teamName": "Crawley Town",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/twtwqv1424033700.png"
+  },
+  "FC Admira Wacker Mödling": {
+    "teamName": "FC Admira Wacker Mödling",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/i20lsv1578833679.png"
+  },
+  "Vålerenga Fotball": {
+    "teamName": "Vålerenga Fotball",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/920.png"
+  },
+  "Dundee FC": {
+    "teamName": "Dundee FC",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/wwvwuw1447597572.png"
+  },
+  "Portsmouth": {
+    "teamName": "Portsmouth",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/xpyurt1448814763.png"
+  },
+  "Envigado FC": {
+    "teamName": "Envigado FC",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/112526.png"
+  },
+  "Miedź Legnica": {
+    "teamName": "Miedź Legnica",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/llqr4k1532855627.png"
+  },
+  "Odds BK": {
+    "teamName": "Odds BK",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/ywwvtr1448823708.png"
+  },
+  "SC Fortuna Köln": {
+    "teamName": "SC Fortuna Köln",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/9ykcnl1580147810.png"
+  },
+  "US Orléans Loiret Football": {
+    "teamName": "US Orléans Loiret Football",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/112276.png"
+  },
+  "Sarpsborg 08 FF": {
+    "teamName": "Sarpsborg 08 FF",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/112199.png"
+  },
+  "Jaguares de Córdoba": {
+    "teamName": "Jaguares de Córdoba",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/6wmzik1576161272.png"
+  },
+  "Bradford City": {
+    "teamName": "Bradford City",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/trwxxv1424033151.png"
+  },
+  "Accrington Stanley": {
+    "teamName": "Accrington Stanley",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/yvsrup1423804831.png"
+  },
+  "St. Johnstone FC": {
+    "teamName": "St. Johnstone FC",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/tstpqq1447598786.png"
+  },
+  "Boyacá Chicó FC": {
+    "teamName": "Boyacá Chicó FC",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/112019.png"
+  },
+  "Luton Town": {
+    "teamName": "Luton Town",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/1923.png"
+  },
+  "SV Mattersburg": {
+    "teamName": "SV Mattersburg",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/7yv9581578833243.png"
+  },
+  "Kristiansund BK": {
+    "teamName": "Kristiansund BK",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/2nlg781512826368.png"
+  },
+  "Sangju Sangmu FC": {
+    "teamName": "Sangju Sangmu FC",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/2055.png"
+  },
+  "Rochdale": {
+    "teamName": "Rochdale",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/uqwwxr1424032561.png"
+  },
+  "Korona Kielce": {
+    "teamName": "Korona Kielce",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/ytpvtv1448218305.png"
+  },
+  "Shonan Bellmare": {
+    "teamName": "Shonan Bellmare",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/mnfxtl1578239658.png"
+  },
+  "FC Würzburger Kickers": {
+    "teamName": "FC Würzburger Kickers",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/110197.png"
+  },
+  "FSV Zwickau": {
+    "teamName": "FSV Zwickau",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/2hf8ai1579106246.png"
+  },
+  "St. Mirren": {
+    "teamName": "St. Mirren",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/100805.png"
+  },
+  "AC Horsens": {
+    "teamName": "AC Horsens",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/xqvssv1473535480.png"
+  },
+  "Esbjerg fB": {
+    "teamName": "Esbjerg fB",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/1445.png"
+  },
+  "HJK Helsinki": {
+    "teamName": "HJK Helsinki",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/wvrwrr1473957252.png"
+  },
+  "Southend United": {
+    "teamName": "Southend United",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/qryqyv1423865987.png"
+  },
+  "Bristol Rovers": {
+    "teamName": "Bristol Rovers",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/rqvwry1447531940.png"
+  },
+  "Hamilton Academical FC": {
+    "teamName": "Hamilton Academical FC",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/184.png"
+  },
+  "TSV 1860 München": {
+    "teamName": "TSV 1860 München",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/qswryx1426865301.png"
+  },
+  "Curicó Unido": {
+    "teamName": "Curicó Unido",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/5x21av1578347791.png"
+  },
+  "SCR Altach": {
+    "teamName": "SCR Altach",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/15009.png"
+  },
+  "Ranheim Fotball": {
+    "teamName": "Ranheim Fotball",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/112200.png"
+  },
+  "Stevenage": {
+    "teamName": "Stevenage",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/wqxwww1423865829.png"
+  },
+  "SG Sonnenhof Großaspach": {
+    "teamName": "SG Sonnenhof Großaspach",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/111379.png"
+  },
+  "Oldham Athletic": {
+    "teamName": "Oldham Athletic",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/ypxywx1448813967.png"
+  },
+  "Milton Keynes Dons": {
+    "teamName": "Milton Keynes Dons",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/wsxpux1448811167.png"
+  },
+  "FK Bodø/Glimt": {
+    "teamName": "FK Bodø/Glimt",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/918.png"
+  },
+  "SC Preußen Münster": {
+    "teamName": "SC Preußen Münster",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/nu38ih1579106303.png"
+  },
+  "Wycombe Wanderers": {
+    "teamName": "Wycombe Wanderers",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/yytsqt1423805554.png"
+  },
+  "Vejle Boldklub": {
+    "teamName": "Vejle Boldklub",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/fhlqev1532855346.png"
+  },
+  "Bury": {
+    "teamName": "Bury",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/xvvprq1447530980.png"
+  },
+  "Randers FC": {
+    "teamName": "Randers FC",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/qrssqx1473535552.png"
+  },
+  "VfL Osnabrück": {
+    "teamName": "VfL Osnabrück",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/tjs2611565193747.png"
+  },
+  "SønderjyskE": {
+    "teamName": "SønderjyskE",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/wtpyvy1473535569.png"
+  },
+  "IFK Göteborg": {
+    "teamName": "IFK Göteborg",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/319.png"
+  },
+  "Mansfield Town": {
+    "teamName": "Mansfield Town",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/vqtxwt1423804415.png"
+  },
+  "Coventry City": {
+    "teamName": "Coventry City",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/uxyqys1424033798.png"
+  },
+  "Waterford FC": {
+    "teamName": "Waterford FC",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/4hv5ip1579281553.png"
+  },
+  "Shrewsbury": {
+    "teamName": "Shrewsbury",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/9zqhpw1546434997.png"
+  },
+  "IK Start": {
+    "teamName": "IK Start",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/1524.png"
+  },
+  "Gillingham": {
+    "teamName": "Gillingham",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/sqxvpp1424033506.png"
+  },
+  "FC Energie Cottbus": {
+    "teamName": "FC Energie Cottbus",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/162.png"
+  },
+  "FC Carl Zeiss Jena": {
+    "teamName": "FC Carl Zeiss Jena",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/r69p651579106388.png"
+  },
+  "Hallescher FC": {
+    "teamName": "Hallescher FC",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/xxdkdj1579106317.png"
+  },
+  "SV Meppen": {
+    "teamName": "SV Meppen",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/x0b2rq1579106288.png"
+  },
+  "AFC Wimbledon": {
+    "teamName": "AFC Wimbledon",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/yvypqx1423805954.png"
+  },
+  "Blackpool": {
+    "teamName": "Blackpool",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/utywru1448754934.png"
+  },
+  "Doncaster Rovers": {
+    "teamName": "Doncaster Rovers",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/ssvpvx1424033260.png"
+  },
+  "Sandefjord Fotball": {
+    "teamName": "Sandefjord Fotball",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/1757.png"
+  },
+  "VfL Sportfreunde Lotte": {
+    "teamName": "VfL Sportfreunde Lotte",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/t9tz4q1580150963.png"
+  },
+  "Cheltenham Town": {
+    "teamName": "Cheltenham Town",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/l97ond1539029659.png"
+  },
+  "IK Sirius": {
+    "teamName": "IK Sirius",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/113458.png"
+  },
+  "Vendsyssel FF": {
+    "teamName": "Vendsyssel FF",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/38g5pu1532855476.png"
+  },
+  "Swindon Town": {
+    "teamName": "Swindon Town",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/uwsyup1424033445.png"
+  },
+  "Notts County": {
+    "teamName": "Notts County",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/utqwvp1424032678.png"
+  },
+  "SKN St. Pölten": {
+    "teamName": "SKN St. Pölten",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/o3v9hn1578833254.png"
+  },
+  "Exeter City": {
+    "teamName": "Exeter City",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/98wt4h1521144923.png"
+  },
+  "Northampton Town": {
+    "teamName": "Northampton Town",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/vuussq1448815061.png"
+  },
+  "Shamrock Rovers": {
+    "teamName": "Shamrock Rovers",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/phucdt1582461629.png"
+  },
+  "Colchester United": {
+    "teamName": "Colchester United",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/ttvpqt1424033597.png"
+  },
+  "Livingston FC": {
+    "teamName": "Livingston FC",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/621.png"
+  },
+  "TSV Hartberg": {
+    "teamName": "TSV Hartberg",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/72c0xg1578833261.png"
+  },
+  "Tranmere Rovers": {
+    "teamName": "Tranmere Rovers",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/yurxtq1423805781.png"
+  },
+  "Cambridge United": {
+    "teamName": "Cambridge United",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/ysvrwy1423804324.png"
+  },
+  "Grimsby Town": {
+    "teamName": "Grimsby Town",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/yyupxs1464537075.png"
+  },
+  "Port Vale": {
+    "teamName": "Port Vale",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/wvpxpp1424033388.png"
+  },
+  "Itagüí Leones FC": {
+    "teamName": "Itagüí Leones FC",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/112970.png"
+  },
+  "Forest Green Rovers": {
+    "teamName": "Forest Green Rovers",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/jbgjqk1505824045.png"
+  },
+  "Dalkurd FF": {
+    "teamName": "Dalkurd FF",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/qtxywq1473540091.png"
+  },
+  "Zagłębie Sosnowiec": {
+    "teamName": "Zagłębie Sosnowiec",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/111089.png"
+  },
+  "Carlisle United": {
+    "teamName": "Carlisle United",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/wqqpuy1423804947.png"
+  },
+  "Trelleborgs FF": {
+    "teamName": "Trelleborgs FF",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/yxpwws1473540076.png"
+  },
+  "St. Patrick's Athletic": {
+    "teamName": "St. Patrick's Athletic",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/423.png"
+  },
+  "Morecambe": {
+    "teamName": "Morecambe",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/uwwxww1423865356.png"
+  },
+  "Cork City": {
+    "teamName": "Cork City",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/4wrebu1579281526.png"
+  },
+  "IF Brommapojkarna": {
+    "teamName": "IF Brommapojkarna",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/tsvvwv1429976864.png"
+  },
+  "Crewe Alexandra": {
+    "teamName": "Crewe Alexandra",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/xurvtu1424033658.png"
+  },
+  "Yeovil Town": {
+    "teamName": "Yeovil Town",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/1e8v4d1540902664.png"
+  },
+  "Bohemian FC": {
+    "teamName": "Bohemian FC",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/305.png"
+  },
+  "Macclesfield Town": {
+    "teamName": "Macclesfield Town",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/purarp1495566474.png"
+  },
+  "Newport County": {
+    "teamName": "Newport County",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/ttsryu1448814163.png"
+  },
+  "Sligo Rovers": {
+    "teamName": "Sligo Rovers",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/sihh3s1510330017.png"
+  },
+  "Derry City": {
+    "teamName": "Derry City",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/lgp8x31508438085.png"
+  },
+  "Limerick FC": {
+    "teamName": "Limerick FC",
+    "teamLogo": "https://cdn.sofifa.org/teams/2/light/111285.png"
+  },
+  "Bray Wanderers": {
+    "teamName": "Bray Wanderers",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/2nbmrk1582565306.png"
+  },
+  "Walsall": {
+    "teamName": "Walsall",
+    "teamLogo": "https://www.thesportsdb.com/images/media/team/badge/tywpws1424033550.png"
+  }
+}

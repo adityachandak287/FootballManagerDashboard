@@ -6,7 +6,7 @@ class ClubSpiderChart extends Component {
     super(props);
     this.state = {
       fetched: false,
-      teamName: this.props.teamName
+      teamName: this.props.teamName,
     };
   }
 
@@ -32,14 +32,16 @@ class ClubSpiderChart extends Component {
   componentDidMount() {
     this.setState({
       players: this.props.players,
-      fetched: this.props.fetched
+      fetched: this.props.fetched,
     });
   }
 
   render() {
     return (
       <div style={{ width: "100%" }} className="container text-center">
-        <h3>{"Spider Charts for " + this.props.teamName}</h3>
+        <h3 className="mt-2 mb-4">
+          {"Spider Charts for " + this.props.teamName}
+        </h3>
 
         <div style={{ display: "inline-block" }}>
           {this.props.fetched === true && this.state.players ? (
