@@ -3,3 +3,9 @@
   height: 250px;
   margin: 1em 0;
 }
+
+#nav-logo {
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-right: 1rem;
+}

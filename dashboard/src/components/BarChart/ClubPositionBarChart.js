@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import { Bar, HorizontalBar } from "react-chartjs-2";
+import { ChartHeader, TeamNotSet } from "../Utils";
 
 class ClubPositionBarChart extends Component {
   constructor(props) {
@@ -51,12 +52,13 @@ class ClubPositionBarChart extends Component {
   }
 
   render() {
-    return (
+    return this.props.fetched === true ? (
       <div className="container">
+        <ChartHeader chartType="Bar" teamName={this.props.teamName} />
         <HorizontalBar
           data={this.state.chartData}
           // width={"60vw"}
-          height={600}
+          height={400}
           options={{
             maintainAspectRatio: false,
             scales: {
@@ -72,6 +74,8 @@ class ClubPositionBarChart extends Component {
           }}
         />
       </div>
+    ) : (
+      <TeamNotSet />
     );
   }
 }

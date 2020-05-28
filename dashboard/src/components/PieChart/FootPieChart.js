@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import { Pie } from "react-chartjs-2";
+import { ChartHeader, TeamNotSet } from "../Utils";
 
 class FootPieChart extends Component {
   constructor(props) {
@@ -9,7 +10,7 @@ class FootPieChart extends Component {
 
     if (this.props.fetched === true) {
       console.log(this.props.players);
-      this.props.players.forEach(player => {
+      this.props.players.forEach((player) => {
         let temp = 0;
         if (player) temp = 1;
         footPrefs[player["Preferred Foot"]] += temp;
@@ -24,10 +25,10 @@ class FootPieChart extends Component {
           {
             label: "Preferred Foot",
             data: [footPrefs.Left, footPrefs.Right],
-            backgroundColor: ["rgba(139, 0, 0, 0.75)", "rgba(0, 0, 128, 0.75)"]
-          }
-        ]
-      }
+            backgroundColor: ["rgba(139, 0, 0, 0.75)", "rgba(0, 0, 128, 0.75)"],
+          },
+        ],
+      },
     };
   }
 
@@ -44,17 +45,20 @@ class FootPieChart extends Component {
   }
 
   render() {
-    return (
+    return this.props.fetched === true ? (
       <div className="container">
+        <ChartHeader chartType="Pie" teamName={this.props.teamName} />
         <Pie
           data={this.state.chartData}
           //   width={60%}
-          height={600}
+          height={400}
           options={{
-            maintainAspectRatio: false
+            maintainAspectRatio: false,
           }}
         />
       </div>
+    ) : (
+      <TeamNotSet />
     );
   }
 }

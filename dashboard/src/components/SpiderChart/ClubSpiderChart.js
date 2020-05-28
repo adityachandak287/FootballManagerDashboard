@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import PlayerSpiderChart from "./PlayerSpiderChart";
-
+import { ChartHeader, TeamNotSet } from "../Utils";
 class ClubSpiderChart extends Component {
   constructor(props) {
     super(props);
@@ -37,11 +37,9 @@ class ClubSpiderChart extends Component {
   }
 
   render() {
-    return (
+    return this.props.fetched === true ? (
       <div style={{ width: "100%" }} className="container text-center">
-        <h3 className="mt-2 mb-4">
-          {"Spider Charts for " + this.props.teamName}
-        </h3>
+        <ChartHeader chartType="Spider" teamName={this.props.teamName} />
 
         <div style={{ display: "inline-block" }}>
           {this.props.fetched === true && this.state.players ? (
@@ -53,6 +51,8 @@ class ClubSpiderChart extends Component {
           )}
         </div>
       </div>
+    ) : (
+      <TeamNotSet />
     );
   }
 }
