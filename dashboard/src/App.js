@@ -1,5 +1,10 @@
 import React, { Component } from "react";
-import { Link, BrowserRouter as Router, Route } from "react-router-dom";
+import {
+  Link,
+  BrowserRouter as Router,
+  Route,
+  Redirect,
+} from "react-router-dom";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 
@@ -7,6 +12,7 @@ import Home from "./components/Home/Home";
 import ClubSpiderChart from "./components/SpiderChart/ClubSpiderChart";
 import FootPieChart from "./components/PieChart/FootPieChart";
 import ClubPositionBarChart from "./components/BarChart/ClubPositionBarChart";
+import ClubGeoViz from "./components/GeoViz/ClubGeoViz";
 
 import { Navbar, NavbarBrand, Nav, NavItem, NavLink } from "reactstrap";
 class App extends Component {
@@ -15,11 +21,12 @@ class App extends Component {
     this.state = {
       fetched: false,
       teamName: "",
+      teamLogo:
+        "https://www.seekpng.com/png/full/28-289657_espn-soccer-team-logo-default.png",
     };
   }
 
   setTeam = (teamName, teamLogo) => {
-    console.log("test");
     fetch("http://localhost:8080/club", {
       method: "POST",
       body: JSON.stringify({ club: teamName }),
@@ -43,7 +50,7 @@ class App extends Component {
   //   console.log("test");
   //   fetch("http://localhost:8080/club", {
   //     method: "POST",
-  //     body: JSON.stringify({ club: this.state.teamName }),
+  //     body: JSON.stringify({ club: "Manchester United" }),
   //     headers: {
   //       "Content-type": "application/json",
   //     },
@@ -54,6 +61,9 @@ class App extends Component {
   //       this.setState({
   //         fetched: true,
   //         players: json.club,
+  //         teamName: "Manchester United",
+  //         teamLogo:
+  //           "https://www.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png",
   //       });
   //     });
   // }
@@ -64,16 +74,16 @@ class App extends Component {
         <Router>
           <Navbar color="dark" dark expand="md">
             <NavbarBrand href="/">
-              {this.state.fetched === true && (
-                <img
-                  id="nav-logo"
-                  src={this.state.teamLogo}
-                  width="30px"
-                  alt="Team Logo"
-                />
-              )}
-              {this.state.teamName ? this.state.teamName : "Football"} Manager
-              Dashboard
+              {/* {this.state.teamName ? this.state.teamName : "Football"}  */}
+              Football Manager Dashboard
+              {/* {this.state.fetched === true || ( */}
+              <img
+                id="nav-logo"
+                src={this.state.teamLogo}
+                width="32px"
+                alt="Team Logo"
+              />
+              {/* )} */}
             </NavbarBrand>
             <Nav className="mr-auto" navbar>
               <NavItem>
@@ -108,6 +118,15 @@ class App extends Component {
                   Bar Chart
                 </NavLink>
               </NavItem>
+              <NavItem>
+                <NavLink
+                  tag={Link}
+                  to="/viz4"
+                  disabled={this.state.fetched === false}
+                >
+                  Map Visualization
+                </NavLink>
+              </NavItem>
             </Nav>
           </Navbar>
           <Route
@@ -115,6 +134,11 @@ class App extends Component {
             path="/"
             component={() => <Home setTeam={this.setTeam} />}
           />
+          {/* <Route
+            exact
+            path="/selected"
+            component={() => <div>Team selected</div>}
+          /> */}
           <Route
             path="/viz1"
             component={() => (
@@ -139,6 +163,16 @@ class App extends Component {
             path="/viz3"
             component={() => (
               <ClubPositionBarChart
+                players={this.state.players}
+                fetched={this.state.fetched}
+                teamName={this.state.teamName}
+              />
+            )}
+          />
+          <Route
+            path="/viz4"
+            component={() => (
+              <ClubGeoViz
                 players={this.state.players}
                 fetched={this.state.fetched}
                 teamName={this.state.teamName}

@@ -1,6 +1,6 @@
 import React from "react";
-import { Jumbotron, Button } from "reactstrap";
-import { NavLink, Link } from "react-router-dom";
+import { Jumbotron } from "reactstrap";
+import { NavLink } from "react-router-dom";
 
 const ChartHeader = (props) => {
   return (

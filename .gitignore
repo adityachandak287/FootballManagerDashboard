@@ -1,3 +1,5 @@
 api/node_modules
 api/data
 dashboard/node_modules
+test.html
+utils.js

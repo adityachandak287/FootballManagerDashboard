@@ -1,0 +1,8 @@
+.leaflet-container {
+  width: 100%;
+  height: 100vh;
+}
+
+img[src*="tile.openstreetmap.org"] {
+  filter: grayscale(100%) invert();
+}

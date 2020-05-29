@@ -20,10 +20,12 @@ Visualising fifa 19 complete player dataset available on [kaggle](https://www.ka
 
 ## To-Do
 
-- [ ] Leaflet maps for geovisualization - [Docs](https://react-leaflet.js.org/)
+- [x] Leaflet maps for geovisualization - [Docs](https://react-leaflet.js.org/)
 
 - [ ] Simulation for Line Chart (Time series data)
 
 - [ ] Box plot
 
 - [ ] Scatter Plot
+
+- [ ] Fix animation for charts

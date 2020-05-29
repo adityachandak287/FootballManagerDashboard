@@ -10,7 +10,7 @@ const mongoURI = "mongodb://localhost:27017";
 const PORT = 8080;
 
 app.use(bodyParser.json({ extended: true }));
-// app.set("view engine", "ejs");
+app.use("/countries", require("./routes/Countries.js"));
 
 mongo.connect(
   mongoURI,
@@ -57,7 +57,6 @@ mongo.connect(
         .toArray(function (err, club) {
           if (err) console.log(err);
           console.log(req.body);
-          // console.log(club);
           res.send({ club: club });
         });
     });

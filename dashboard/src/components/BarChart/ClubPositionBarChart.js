@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Bar, HorizontalBar } from "react-chartjs-2";
+import { HorizontalBar } from "react-chartjs-2";
 import { ChartHeader, TeamNotSet } from "../Utils";
 
 class ClubPositionBarChart extends Component {
@@ -70,6 +70,9 @@ class ClubPositionBarChart extends Component {
                   },
                 },
               ],
+            },
+            animation: {
+              duration: 2000,
             },
           }}
         />

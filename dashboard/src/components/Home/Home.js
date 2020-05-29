@@ -10,7 +10,14 @@ const ClubTile = (props) => {
         value={props.name}
         onClick={() => props.selectTeam(props.name, props.logo)}
       >
-        <CardImg src={props.logo} width="100%" height="auto" alt="Club Logo" />
+        {/* <CardImg src={props.logo} width="100%" height="auto" alt="Club Logo" /> */}
+        <img
+          src={props.logo}
+          loading="lazy"
+          width="100%"
+          height="auto"
+          alt="Club Logo"
+        />
         <CardBody>
           <CardTitle> {props.name} </CardTitle>
         </CardBody>
@@ -31,6 +38,7 @@ class Home extends Component {
   selectTeam = (teamName, teamLogo) => {
     console.log(teamName);
     this.props.setTeam(teamName, teamLogo);
+
     this.setState(
       {
         selected: teamName,

@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import { Pie } from "react-chartjs-2";
 import { ChartHeader, TeamNotSet } from "../Utils";
+import { Redirect } from "react-router-dom";
 
 class FootPieChart extends Component {
   constructor(props) {
@@ -54,11 +55,15 @@ class FootPieChart extends Component {
           height={400}
           options={{
             maintainAspectRatio: false,
+            animation: {
+              duration: 2000,
+            },
           }}
         />
       </div>
     ) : (
-      <TeamNotSet />
+      // <TeamNotSet />
+      <Redirect to="/" />
     );
   }
 }
