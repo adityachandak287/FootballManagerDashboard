@@ -22,6 +22,8 @@ Visualising fifa 19 complete player dataset available on [kaggle](https://www.ka
 
 - [x] Leaflet maps for geovisualization - [Docs](https://react-leaflet.js.org/)
 
+  - [ ] Add legend to map
+
 - [ ] Simulation for Line Chart (Time series data)
 
 - [ ] Box plot
