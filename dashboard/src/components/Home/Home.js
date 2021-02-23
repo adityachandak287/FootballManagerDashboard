@@ -1,5 +1,10 @@
 import React, { Component } from "react";
-import { Card, CardTitle, CardImg, CardBody } from "reactstrap";
+import {
+  Card,
+  CardTitle,
+  // CardImg,
+  CardBody,
+} from "reactstrap";
 import "./Home.css";
 
 const ClubTile = (props) => {

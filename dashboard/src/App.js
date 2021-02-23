@@ -1,20 +1,28 @@
 import React, { Component } from "react";
-import {
-  Link,
-  BrowserRouter as Router,
-  Route,
-  Redirect,
-} from "react-router-dom";
+import { Link, BrowserRouter as Router, Route } from "react-router-dom";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
+import { Navbar, NavbarBrand, Nav, NavItem, NavLink } from "reactstrap";
 
 import Home from "./components/Home/Home";
-import ClubSpiderChart from "./components/SpiderChart/ClubSpiderChart";
-import FootPieChart from "./components/PieChart/FootPieChart";
-import ClubPositionBarChart from "./components/BarChart/ClubPositionBarChart";
-import ClubGeoViz from "./components/GeoViz/ClubGeoViz";
+import { Suspense } from "react";
+// import ClubSpiderChart from "./components/SpiderChart/ClubSpiderChart";
+// import FootPieChart from "./components/PieChart/FootPieChart";
+// import ClubPositionBarChart from "./components/BarChart/ClubPositionBarChart";
+// import ClubGeoViz from "./components/GeoViz/ClubGeoViz";
 
-import { Navbar, NavbarBrand, Nav, NavItem, NavLink } from "reactstrap";
+// const Home = React.lazy(() => import("./components/Home/Home"));
+const ClubSpiderChart = React.lazy(() =>
+  import("./components/SpiderChart/ClubSpiderChart")
+);
+const FootPieChart = React.lazy(() =>
+  import("./components/PieChart/FootPieChart")
+);
+const ClubPositionBarChart = React.lazy(() =>
+  import("./components/BarChart/ClubPositionBarChart")
+);
+const ClubGeoViz = React.lazy(() => import("./components/GeoViz/ClubGeoViz"));
+
 class App extends Component {
   constructor(props) {
     super(props);
@@ -142,41 +150,49 @@ class App extends Component {
           <Route
             path="/viz1"
             component={() => (
-              <ClubSpiderChart
-                players={this.state.players}
-                fetched={this.state.fetched}
-                teamName={this.state.teamName}
-              />
+              <Suspense fallback={<div>Loading...</div>}>
+                <ClubSpiderChart
+                  players={this.state.players}
+                  fetched={this.state.fetched}
+                  teamName={this.state.teamName}
+                />
+              </Suspense>
             )}
           />
           <Route
             path="/viz2"
             component={() => (
-              <FootPieChart
-                players={this.state.players}
-                fetched={this.state.fetched}
-                teamName={this.state.teamName}
-              />
+              <Suspense fallback={<div>Loading...</div>}>
+                <FootPieChart
+                  players={this.state.players}
+                  fetched={this.state.fetched}
+                  teamName={this.state.teamName}
+                />
+              </Suspense>
             )}
           />
           <Route
             path="/viz3"
             component={() => (
-              <ClubPositionBarChart
-                players={this.state.players}
-                fetched={this.state.fetched}
-                teamName={this.state.teamName}
-              />
+              <Suspense fallback={<div>Loading...</div>}>
+                <ClubPositionBarChart
+                  players={this.state.players}
+                  fetched={this.state.fetched}
+                  teamName={this.state.teamName}
+                />
+              </Suspense>
             )}
           />
           <Route
             path="/viz4"
             component={() => (
-              <ClubGeoViz
-                players={this.state.players}
-                fetched={this.state.fetched}
-                teamName={this.state.teamName}
-              />
+              <Suspense fallback={<div>Loading...</div>}>
+                <ClubGeoViz
+                  players={this.state.players}
+                  fetched={this.state.fetched}
+                  teamName={this.state.teamName}
+                />
+              </Suspense>
             )}
           />
         </Router>

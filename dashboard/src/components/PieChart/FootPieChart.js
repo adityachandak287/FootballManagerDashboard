@@ -1,6 +1,9 @@
 import React, { Component } from "react";
 import { Pie } from "react-chartjs-2";
-import { ChartHeader, TeamNotSet } from "../Utils";
+import {
+  ChartHeader,
+  // TeamNotSet
+} from "../Utils";
 import { Redirect } from "react-router-dom";
 
 class FootPieChart extends Component {

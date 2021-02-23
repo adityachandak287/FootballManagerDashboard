@@ -1,5 +1,11 @@
 import React, { Component } from "react";
-import { Map, Marker, CircleMarker, Popup, TileLayer } from "react-leaflet";
+import {
+  Map,
+  // Marker,
+  CircleMarker,
+  Popup,
+  TileLayer,
+} from "react-leaflet";
 import "./GeoVizMap.css";
 
 const CountryMarker = (props) => {
