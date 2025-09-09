@@ -1,11 +1,9 @@
+require("dotenv").config();
 const mongo = require("mongodb").MongoClient;
 const fs = require("fs");
-// const uuid = require("uuid");
 
-// console.log(uuid.v4());
-const mongoURI = "mongodb://localhost:27017";
 mongo.connect(
-  mongoURI,
+  process.env.MONGODB_URI,
   {
     useNewUrlParser: true,
     useUnifiedTopology: true,

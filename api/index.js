@@ -1,3 +1,6 @@
+require("dotenv").config({
+  quiet: true,
+});
 const express = require("express");
 const cors = require("cors");
 const bodyParser = require("body-parser");
@@ -6,14 +9,13 @@ var mongo = require("mongodb").MongoClient;
 const app = express();
 app.use(cors());
 
-const mongoURI = "mongodb://localhost:27017";
-const PORT = 8080;
+const PORT = Number(process.env.PORT || 8080);
 
 app.use(bodyParser.json({ extended: true }));
 app.use("/countries", require("./routes/Countries.js"));
 
 mongo.connect(
-  mongoURI,
+  process.env.MONGODB_URI,
   {
     useNewUrlParser: true,
     useUnifiedTopology: true,

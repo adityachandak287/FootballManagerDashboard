@@ -10,8 +10,8 @@
     "Potential": 94,
     "Club": "FC Barcelona",
     "Club Logo": "https://cdn.sofifa.org/teams/2/light/241.png",
-    "Value": "\u20ac110.5M",
-    "Wage": "\u20ac565K",
+    "Value": "€110.5M",
+    "Wage": "€565K",
     "Special": 2202,
     "Preferred Foot": "Left",
     "International Reputation": 5,
@@ -23,7 +23,6 @@
     "Position": "RF",
     "Jersey Number": 10,
     "Joined": "Jul 1, 2004",
-    "Loaned From": "",
     "Contract Valid Until": 2021,
     "Height": "5'7",
     "Weight": "159lbs",
@@ -87,5 +86,5 @@
     "GKKicking": 15,
     "GKPositioning": 14,
     "GKReflexes": 8,
-    "Release Clause": "\u20ac226.5M"
+    "Release Clause": "€226.5M"
 }
